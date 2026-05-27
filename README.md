@@ -1,5 +1,6 @@
-                                            hey 👋 i'm Sagar                             
-                                    just a developer figuring things out 🚀
+<h1 align="center"> hey 👋 i'm Sagar,just a developer figuring things out 🚀/h1>
+
+  
 # 💫 About Me:
  🛠️ Computer Science student focused on building real applications and improving through hands-on learning.<br><br>🌱 Currently following the MERN stack roadmap — completed HTML & CSS, learning JavaScript, and preparing to explore React and backend development.<br><br>🧠 Continuously improving problem-solving skills and strengthening programming fundamentals through regular DSA practice.<br><br>🤝 Open to learning new technologies, discussing ideas, and collaborating on beginner-friendly web development projects.<br><br>📫 Reach me at: sagarvasamsetty52@gmail.com<br>
 
