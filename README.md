@@ -1,4 +1,4 @@
-<h1 align="center"> hey 👋 i'm Sagar,just a developer figuring things out 🚀/h1>
+<h1 align="center"> hey 👋 i'm Sagar,just a developer figuring things out <🚀/h1>
 
   
 # 💫 About Me:
