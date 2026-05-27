@@ -1,10 +1,19 @@
-<h1 align="center"> hey 👋 i'm Sagar,just a developer figuring things out <🚀/h1>
+<h1 align="center">hey 👋 i'm Sagar</h1>
 
-  
+<p align="center">
+🚀 just a developer figuring things out
+</p>
+
 # 💫 About Me:
- 🛠️ Computer Science student focused on building real applications and improving through hands-on learning.<br><br>🌱 Currently following the MERN stack roadmap — completed HTML & CSS, learning JavaScript, and preparing to explore React and backend development.<br><br>🧠 Continuously improving problem-solving skills and strengthening programming fundamentals through regular DSA practice.<br><br>🤝 Open to learning new technologies, discussing ideas, and collaborating on beginner-friendly web development projects.<br><br>📫 Reach me at: sagarvasamsetty52@gmail.com<br>
+🛠️ Computer Science student focused on building real applications and improving through hands-on learning.
 
+🌱 Currently following the MERN stack roadmap — completed HTML & CSS, learning JavaScript, and preparing to explore React and backend development.
 
+🧠 Continuously improving problem-solving skills and strengthening programming fundamentals through regular DSA practice.
+
+🤝 Open to learning new technologies, discussing ideas, and collaborating on beginner-friendly web development projects.
+
+📫 Reach me at: [sagarvasamsetty52@gmail.com](mailto:sagarvasamsetty52@gmail.com)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/srinivasa-sagar-vasamsetty-21835a352 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarvasamsetty52@gmail.com) 
 
