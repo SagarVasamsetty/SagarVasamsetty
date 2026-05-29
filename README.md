@@ -22,7 +22,7 @@ Languages: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&l
 Frontend: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) <br>
 Design: ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) <br>
 Databases: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) <br>
-Tools & Deveops: 
+Tools & Deveops: (https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SagarVasamsetty&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
